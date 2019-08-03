@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("测试 分支");
+        System.out.println("测试 分支");
+        System.out.println("测试 分支");
     }
 }
